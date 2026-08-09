@@ -1,0 +1,9 @@
+{
+  "name": "first-meet-js-oop",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "zoo": "node day-2-zoo.js",
+    "fetch:zoo": "node first-meet-fetch.js"
+  }
+}
